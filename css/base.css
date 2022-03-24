@@ -1,0 +1,19 @@
+:root {
+	--white-color: #fff;
+	--primary-color: #ee4d2d;
+	--text-color: #333;
+    --opacity-color: linear-gradient(to bottom, rgba(212, 219, 230, 0.4) 0%,rgba(235, 243, 252, 0.4) 100%);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+	font-size: 62.5%;
+	line-height: 1.6rem;
+	box-sizing: border-box;
+} 
+
